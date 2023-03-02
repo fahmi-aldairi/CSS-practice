@@ -1,0 +1,8 @@
+td {
+border: 1px solid black;
+border-radius: 5px;
+box-shadow: 2px 2px #00000061;
+}
+span{
+  padding: 5px;
+}

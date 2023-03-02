@@ -1,0 +1,51 @@
+.container{
+  box-shadow: 4px 0px black;
+  background-color: #FCFFE7;
+  width: 750px;
+  height: 500px;
+}
+
+h2 {
+  padding: 10px 0 0 10px;
+}
+
+.Child-1 {
+  width: 700px;
+}
+
+.Child-1 div{
+  display: inline-grid;
+  width: 216px;
+  height: 120px;
+  overflow: hidden;
+  background-color: #eeeeee;
+}
+
+.Child-1 .Text{
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+.Child-2{
+  border-bottom: 2px solid;
+  border-top: 2px solid;
+  line-height: 1.3;
+  height: 60px;
+  font-weight: bold;
+  overflow: auto;
+  margin-left: 5px;
+  margin-right: 2px;
+}
+
+.Child-3 div{
+  display: inline-grid;
+  width: 216px;
+  height: 120px;
+  overflow: hidden;
+  background-color: #eeeeee;
+}
+
+.Text{
+  margin-left: 5px;
+  margin-top: 10px;
+}

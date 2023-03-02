@@ -1,0 +1,54 @@
+
+
+h1{
+  text-decoration: underline;
+}
+
+hr{
+  width: 600px;
+margin: 0;
+}
+
+.Container-1 p {
+  color: blue;
+}
+
+.Container-1 a , .Container-2 a{
+  color: orange;
+}
+
+.Container-3 a{
+  background-color: yellow;
+  color: black;
+}
+
+.Container-4 #ALL-bold{
+  font-weight: bold;
+}
+
+.Container-4 #count{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+#click{
+  font-weight: bold;
+}
+
+.Container-4 a{
+  color: red;
+}
+
+.Container-4 .bold-1{
+  font-weight: bold;
+}
+
+.Container-4 #All-blue{
+  color: blue;
+}
+
+.Container-4 #NLS{
+  list-style-type: none;
+}
+
