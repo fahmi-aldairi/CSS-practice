@@ -32,6 +32,11 @@ It's an exercise in (HTML & CSS) with skelton made using Html designed by CSS.
 - [*Image-3(HTML)*](Image-3.html)
 - [*Image-3(CSS)*](Image-3.css)
 
+# Task-2
+### Challenge-Solution
+![Sol-Challenge](./Images/Sol-Challenge.png)
 
+### Links
 
-
+- [*Sol-Challenge(HTML)*](../CSS-practice/task-2/Index.html)
+- [*Sol-Challenge(CSS)*](../CSS-practice/task-2/main.css)

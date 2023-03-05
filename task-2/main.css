@@ -1,0 +1,40 @@
+
+/* EX-1 */
+
+.Child-1 div{
+  width: 50px;
+  height: 50px;
+  border: 2px solid;
+  margin: 5px 0px;
+  display: inline-block;
+}
+
+.Child-1 div:nth-child(odd){
+  background-color: yellow;
+}
+
+.Child-1 div:nth-child(even){
+  background-color: green;
+  position: relative;
+  top: 25px;
+}
+
+
+/**********************************/
+
+/* EX-2 */
+
+.Child-2 div{
+  width: 100px;
+  height: 30px;
+  background-color: red;
+  border: 2px solid black;
+  margin: 5px 0px;
+  display: inline-block;
+  text-align: center;
+  color: white;
+}
+
+.Child-2 div:nth-child(even){
+  display: none;
+}
