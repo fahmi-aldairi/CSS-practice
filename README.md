@@ -38,5 +38,5 @@ It's an exercise in (HTML & CSS) with skelton made using Html designed by CSS.
 
 ### Links
 
-- [*Sol-Challenge(HTML)*](../CSS-practice/task-2/Index.html)
-- [*Sol-Challenge(CSS)*](../CSS-practice/task-2/main.css)
+- [*Sol-Challenge(HTML)*](./task-2/Index.html)
+- [*Sol-Challenge(CSS)*](./task-2/main.css)
