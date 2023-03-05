@@ -1,4 +1,7 @@
-.container{
+/* Solution-1 */
+
+
+/* .container{
   box-shadow: 4px 0px black;
   background-color: #FCFFE7;
   width: 750px;
@@ -48,4 +51,36 @@ h2 {
 .Text{
   margin-left: 5px;
   margin-top: 10px;
+} */
+
+/********************************************/
+
+/* Solution-2 */
+
+.Parent {
+  background-color: #FCFFE7;
+  width: 700px;
+  box-shadow: 2px 0px black;
+  height: 450px;
+  padding: 10px ;
+}
+
+.Parent .First-Ch .Text1{
+  width: 200px;
+  height: 105px;
+  background-color: #eeeeee;
+  display: inline-block;
+  overflow: hidden;
+  /* margin-left: 5px;  */
+}
+
+.Parent .Text2{
+  width: 694px;
+  height: 70px;
+  font-weight: bold;
+  line-height: 1.3;
+  overflow: auto;
+  margin: 10px 0px 10px 0px;
+  border-bottom: 2px black solid;
+  border-top: 2px black solid;
 }
